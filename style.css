@@ -1,0 +1,43 @@
+.bg-container{
+  border: 1px solid blue;
+  width: 300px;
+  padding: 10px;
+}
+
+.first-container{
+  border: 1px solid yellow;
+  width: 250px;
+  margin: 10px;
+  padding-left: 20px;
+  margin: 10px;
+}
+.container-1{
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  display: inline-block;
+  border: 1px solid blue;
+  margin-left: 30px;
+}
+
+.container-2{
+height: 70px;
+width: 200px;
+margin: 10px;
+border: 1px solid pink;
+display: inline-block;
+}
+.container-3{
+  height: 70px;
+  width: 40px;
+  margin: 10px;
+  border: 1px solid rgb(42, 165, 67);
+  display: inline-block;
+}
+
+.footer{
+  height: 20px;
+  width: 270px;
+  border: 1px solid gold;
+  margin: 10px;
+}
